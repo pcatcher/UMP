@@ -1,10 +1,10 @@
 MODULE StockItem;
 
-// зависимости
-REQUIRE Shipment, Receipt, Stock;
+// объявляем зависимости
+REQUIRE Shipment, Receipt;
 
 
-// 
+// свойство 
 receivedQuantity 'Суммарный приход' = GROUP SUM quantity(ReceiptDetail d) BY item(d), stock(receipt(d));
 shippedQuantity 'Суммарный расход' = GROUP SUM quantity(ShipmentDetail d) BY item(d), stock(shipment(d));
 currentBalance 'Текущий остаток' (Item i, Stock s) = receivedQuantity (i, s) (-) shippedQuantity (i, s);
@@ -18,4 +18,3 @@ FORM currentBalanceItemStock 'Текущие остатки'
     PROPERTIES READONLY name(i), barcode(i), name(s), currentBalance(i, s)
     FILTERS currentBalance(i, s)
 ;
-
