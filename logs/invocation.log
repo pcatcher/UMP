@@ -1,0 +1,372 @@
+27 окт. 2022 12:49:31,992  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 12:49:31,992  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 12:49:31,995  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+27 окт. 2022 12:49:32,082  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+27 окт. 2022 12:49:32,083  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 12:49:32,084  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 12:49:40,735  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 12:49:40,735  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 12:49:40,736  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+27 окт. 2022 12:49:41,114  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 12:49:41,115  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+27 окт. 2022 12:49:41,115  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 12:49:41,115  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 12:49:41,865  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:41,865  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:41,865  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: gainedFocus, rq: 0]
+27 окт. 2022 12:49:41,869  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: gainedFocus, rq: 0] finished
+27 окт. 2022 12:49:41,869  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:41,869  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:42,992  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 12:49:42,993  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 12:49:42,994  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: changePageSize, rq: 1]
+27 окт. 2022 12:49:42,995  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: changePageSize, rq: 1] finished
+27 окт. 2022 12:49:42,995  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 12:49:42,995  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 12:49:43,292  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:43,292  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:43,293  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: changePageSize, rq: 2]
+27 окт. 2022 12:49:43,295  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: changePageSize, rq: 2] finished
+27 окт. 2022 12:49:43,295  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:43,295  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:44,914  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: changePageSize, rq: 3] for request #3
+27 окт. 2022 12:49:44,914  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: changePageSize, rq: 3] for request #3
+27 окт. 2022 12:49:44,915  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: changePageSize, rq: 3]
+27 окт. 2022 12:49:44,916  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: changePageSize, rq: 3] finished
+27 окт. 2022 12:49:44,916  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: changePageSize, rq: 3] for request #3
+27 окт. 2022 12:49:44,916  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: changePageSize, rq: 3] for request #3
+27 окт. 2022 12:49:46,541  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: setTabVisible, rq: 4] for request #4
+27 окт. 2022 12:49:46,541  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: setTabVisible, rq: 4] for request #4
+27 окт. 2022 12:49:46,541  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: setTabVisible, rq: 4]
+27 окт. 2022 12:49:46,571  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: setTabVisible, rq: 4] finished
+27 окт. 2022 12:49:46,571  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: setTabVisible, rq: 4] for request #4
+27 окт. 2022 12:49:46,571  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: setTabVisible, rq: 4] for request #4
+27 окт. 2022 12:49:46,936  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 12:49:46,936  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 12:49:46,937  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: gainedFocus, rq: 5]
+27 окт. 2022 12:49:46,938  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: gainedFocus, rq: 5] finished
+27 окт. 2022 12:49:46,938  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 12:49:46,939  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 12:49:47,046  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: closedPressed, rq: 6] for request #6
+27 окт. 2022 12:49:47,047  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: closedPressed, rq: 6] for request #6
+27 окт. 2022 12:49:47,047  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: closedPressed, rq: 6]
+27 окт. 2022 12:49:47,060  INFO PausableInvocationsLogger - Interaction [f: Chat.fullChat, m: closedPressed, rq: 6] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@33ff05
+27 окт. 2022 12:49:47,062  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: closedPressed, rq: 6] finished
+27 окт. 2022 12:49:47,062  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: closedPressed, rq: 6] for request #6
+27 окт. 2022 12:49:47,062  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: closedPressed, rq: 6] for request #6
+27 окт. 2022 12:49:49,628  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 12:49:49,628  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 12:49:49,628  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+27 окт. 2022 12:49:49,727  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 12:49:49,727  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+27 окт. 2022 12:49:49,727  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 12:49:49,727  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 12:49:49,819  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:49,819  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:49,820  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: gainedFocus, rq: 0]
+27 окт. 2022 12:49:49,821  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: gainedFocus, rq: 0] finished
+27 окт. 2022 12:49:49,821  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:49,821  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 12:49:50,863  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 12:49:50,863  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 12:49:50,863  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: gainedFocus, rq: 1]
+27 окт. 2022 12:49:50,864  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: gainedFocus, rq: 1] finished
+27 окт. 2022 12:49:50,865  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 12:49:50,865  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 12:49:50,951  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:50,951  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:50,951  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: changePageSize, rq: 2]
+27 окт. 2022 12:49:50,952  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: changePageSize, rq: 2] finished
+27 окт. 2022 12:49:50,952  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:50,952  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: changePageSize, rq: 2] for request #2
+27 окт. 2022 12:49:50,977  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 12:49:50,977  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 12:49:50,977  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: closedPressed, rq: 3]
+27 окт. 2022 12:49:50,986  INFO PausableInvocationsLogger - Interaction [f: Chat.fullChat, m: closedPressed, rq: 3] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@b70443
+27 окт. 2022 12:49:50,987  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: closedPressed, rq: 3] finished
+27 окт. 2022 12:49:50,987  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 12:49:50,988  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 15:11:12,520  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 15:11:12,521  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 15:11:12,531  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+27 окт. 2022 15:11:12,640  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+27 окт. 2022 15:11:12,640  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 15:11:12,640  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 0] for request #0
+27 окт. 2022 15:11:18,408  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 15:11:18,408  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 15:11:18,408  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+27 окт. 2022 15:11:18,539  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:18,539  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+27 окт. 2022 15:11:18,539  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 15:11:18,539  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 1] for request #1
+27 окт. 2022 15:11:18,752  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.options, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:18,752  INFO PausableInvocationsLogger - Acquired request lock for [f: System.options, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:18,752  INFO PausableInvocationsLogger - Run invocation: [f: System.options, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:18,754  INFO PausableInvocationsLogger - Invocation [f: System.options, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:18,754  INFO PausableInvocationsLogger - Releasing request lock for [f: System.options, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:18,754  INFO PausableInvocationsLogger - Released request lock for [f: System.options, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:20,672  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 15:11:20,673  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 15:11:20,673  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+27 окт. 2022 15:11:20,691  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:20,691  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+27 окт. 2022 15:11:20,691  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 15:11:20,692  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 2] for request #2
+27 окт. 2022 15:11:20,723  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:20,723  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:20,725  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:20,725  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:20,725  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:20,726  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:22,758  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 окт. 2022 15:11:22,758  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 окт. 2022 15:11:22,759  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 3]
+27 окт. 2022 15:11:22,981  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 3] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:22,981  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 3] finished
+27 окт. 2022 15:11:22,981  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 окт. 2022 15:11:22,981  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 3] for request #3
+27 окт. 2022 15:11:23,097  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:23,097  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:23,098  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:23,100  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:23,100  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:23,100  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:24,244  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 15:11:24,244  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 15:11:24,244  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: changePageSize, rq: 1]
+27 окт. 2022 15:11:24,246  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: changePageSize, rq: 1] finished
+27 окт. 2022 15:11:24,247  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 15:11:24,247  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: changePageSize, rq: 1] for request #1
+27 окт. 2022 15:11:27,092  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 окт. 2022 15:11:27,093  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 окт. 2022 15:11:27,093  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 4]
+27 окт. 2022 15:11:27,146  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 4] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:27,146  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 4] finished
+27 окт. 2022 15:11:27,146  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 окт. 2022 15:11:27,146  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 4] for request #4
+27 окт. 2022 15:11:27,197  INFO PausableInvocationsLogger - Acquiring request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:27,197  INFO PausableInvocationsLogger - Acquired request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:27,198  INFO PausableInvocationsLogger - Run invocation: [f: Security.findNavigator, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:27,199  INFO PausableInvocationsLogger - Invocation [f: Security.findNavigator, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:27,199  INFO PausableInvocationsLogger - Releasing request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:27,199  INFO PausableInvocationsLogger - Released request lock for [f: Security.findNavigator, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:30,111  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 окт. 2022 15:11:30,112  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 окт. 2022 15:11:30,112  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 5]
+27 окт. 2022 15:11:30,147  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 5] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:30,147  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 5] finished
+27 окт. 2022 15:11:30,147  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 окт. 2022 15:11:30,147  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 5] for request #5
+27 окт. 2022 15:11:30,318  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:30,318  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:30,320  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:30,322  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:30,322  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:30,322  INFO PausableInvocationsLogger - Released request lock for [f: System.interpreter, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:31,312  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 окт. 2022 15:11:31,312  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 окт. 2022 15:11:31,312  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 6]
+27 окт. 2022 15:11:31,357  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 6] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:31,357  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 6] finished
+27 окт. 2022 15:11:31,357  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 окт. 2022 15:11:31,357  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 6] for request #6
+27 окт. 2022 15:11:31,528  INFO PausableInvocationsLogger - Acquiring request lock for [f: Service.settings, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:31,528  INFO PausableInvocationsLogger - Acquired request lock for [f: Service.settings, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:31,530  INFO PausableInvocationsLogger - Run invocation: [f: Service.settings, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:31,534  INFO PausableInvocationsLogger - Invocation [f: Service.settings, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:31,534  INFO PausableInvocationsLogger - Releasing request lock for [f: Service.settings, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:31,534  INFO PausableInvocationsLogger - Released request lock for [f: Service.settings, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:32,481  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 окт. 2022 15:11:32,481  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 окт. 2022 15:11:32,482  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 7]
+27 окт. 2022 15:11:32,524  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 7] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:32,525  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 7] finished
+27 окт. 2022 15:11:32,525  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 окт. 2022 15:11:32,525  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 7] for request #7
+27 окт. 2022 15:11:32,550  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:32,551  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:32,551  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:32,552  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:32,552  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:32,553  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:33,645  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.options, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,645  INFO PausableInvocationsLogger - Acquired request lock for [f: System.options, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,645  INFO PausableInvocationsLogger - Run invocation: [f: System.options, m: gainedFocus, rq: 1]
+27 окт. 2022 15:11:33,646  INFO PausableInvocationsLogger - Invocation [f: System.options, m: gainedFocus, rq: 1] finished
+27 окт. 2022 15:11:33,647  INFO PausableInvocationsLogger - Releasing request lock for [f: System.options, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,647  INFO PausableInvocationsLogger - Released request lock for [f: System.options, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,729  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.options, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:33,729  INFO PausableInvocationsLogger - Acquired request lock for [f: System.options, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:33,729  INFO PausableInvocationsLogger - Run invocation: [f: System.options, m: closedPressed, rq: 2]
+27 окт. 2022 15:11:33,730  INFO PausableInvocationsLogger - Interaction [f: System.options, m: closedPressed, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@de614
+27 окт. 2022 15:11:33,731  INFO PausableInvocationsLogger - Invocation [f: System.options, m: closedPressed, rq: 2] finished
+27 окт. 2022 15:11:33,732  INFO PausableInvocationsLogger - Releasing request lock for [f: System.options, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:33,732  INFO PausableInvocationsLogger - Released request lock for [f: System.options, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:33,747  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,747  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,747  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 1]
+27 окт. 2022 15:11:33,748  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 1] finished
+27 окт. 2022 15:11:33,748  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,748  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,830  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,830  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,830  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 1]
+27 окт. 2022 15:11:33,831  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 1] finished
+27 окт. 2022 15:11:33,831  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:33,831  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:34,021  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:34,021  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:34,021  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 2]
+27 окт. 2022 15:11:34,022  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 2] finished
+27 окт. 2022 15:11:34,022  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:34,022  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:34,439  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:34,439  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:34,439  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 3]
+27 окт. 2022 15:11:34,439  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 3] finished
+27 окт. 2022 15:11:34,439  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:34,439  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:34,551  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:34,551  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:34,551  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: closedPressed, rq: 4]
+27 окт. 2022 15:11:34,552  INFO PausableInvocationsLogger - Interaction [f: System.integrationData, m: closedPressed, rq: 4] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@8b92ed
+27 окт. 2022 15:11:34,553  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: closedPressed, rq: 4] finished
+27 окт. 2022 15:11:34,553  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:34,553  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:34,564  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:34,564  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:34,564  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 2]
+27 окт. 2022 15:11:34,565  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 2] finished
+27 окт. 2022 15:11:34,565  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:34,565  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:35,381  INFO PausableInvocationsLogger - Acquiring request lock for [f: Security.findNavigator, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:35,381  INFO PausableInvocationsLogger - Acquired request lock for [f: Security.findNavigator, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:35,381  INFO PausableInvocationsLogger - Run invocation: [f: Security.findNavigator, m: gainedFocus, rq: 1]
+27 окт. 2022 15:11:35,381  INFO PausableInvocationsLogger - Invocation [f: Security.findNavigator, m: gainedFocus, rq: 1] finished
+27 окт. 2022 15:11:35,382  INFO PausableInvocationsLogger - Releasing request lock for [f: Security.findNavigator, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:35,382  INFO PausableInvocationsLogger - Released request lock for [f: Security.findNavigator, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:35,488  INFO PausableInvocationsLogger - Acquiring request lock for [f: Security.findNavigator, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:35,488  INFO PausableInvocationsLogger - Acquired request lock for [f: Security.findNavigator, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:35,488  INFO PausableInvocationsLogger - Run invocation: [f: Security.findNavigator, m: closedPressed, rq: 2]
+27 окт. 2022 15:11:35,489  INFO PausableInvocationsLogger - Interaction [f: Security.findNavigator, m: closedPressed, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@45c2b4
+27 окт. 2022 15:11:35,489  INFO PausableInvocationsLogger - Invocation [f: Security.findNavigator, m: closedPressed, rq: 2] finished
+27 окт. 2022 15:11:35,489  INFO PausableInvocationsLogger - Releasing request lock for [f: Security.findNavigator, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:35,489  INFO PausableInvocationsLogger - Released request lock for [f: Security.findNavigator, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:35,501  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:35,501  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:35,501  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 3]
+27 окт. 2022 15:11:35,502  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 3] finished
+27 окт. 2022 15:11:35,502  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:35,502  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:36,876  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:36,876  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:36,876  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: gainedFocus, rq: 2]
+27 окт. 2022 15:11:36,876  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: gainedFocus, rq: 2] finished
+27 окт. 2022 15:11:36,876  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:36,876  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: gainedFocus, rq: 2] for request #2
+27 окт. 2022 15:11:36,983  INFO PausableInvocationsLogger - Acquiring request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 15:11:36,983  INFO PausableInvocationsLogger - Acquired request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 15:11:36,984  INFO PausableInvocationsLogger - Run invocation: [f: Chat.fullChat, m: closedPressed, rq: 3]
+27 окт. 2022 15:11:36,996  INFO PausableInvocationsLogger - Interaction [f: Chat.fullChat, m: closedPressed, rq: 3] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@1fb4597
+27 окт. 2022 15:11:36,996  INFO PausableInvocationsLogger - Invocation [f: Chat.fullChat, m: closedPressed, rq: 3] finished
+27 окт. 2022 15:11:36,996  INFO PausableInvocationsLogger - Releasing request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 15:11:36,996  INFO PausableInvocationsLogger - Released request lock for [f: Chat.fullChat, m: closedPressed, rq: 3] for request #3
+27 окт. 2022 15:11:37,009  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 4] for request #4
+27 окт. 2022 15:11:37,009  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 4] for request #4
+27 окт. 2022 15:11:37,009  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 4]
+27 окт. 2022 15:11:37,010  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 4] finished
+27 окт. 2022 15:11:37,010  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 4] for request #4
+27 окт. 2022 15:11:37,010  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 4] for request #4
+27 окт. 2022 15:11:37,950  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:37,950  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:37,951  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 1]
+27 окт. 2022 15:11:37,953  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 1] finished
+27 окт. 2022 15:11:37,953  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:37,953  INFO PausableInvocationsLogger - Released request lock for [f: System.interpreter, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:38,056  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:38,056  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:38,056  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: closedPressed, rq: 2]
+27 окт. 2022 15:11:38,057  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: closedPressed, rq: 2] called pauseForUserInteraction: [ConfirmClientAction[caption: lsFusion, msg: Do you really want close the form without applying the changes ?]]
+27 окт. 2022 15:11:40,716  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: closedPressed, rq: 2] resumed after userInteraction: [1]
+27 окт. 2022 15:11:40,718  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: closedPressed, rq: 2] finished
+27 окт. 2022 15:11:40,718  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:40,718  INFO PausableInvocationsLogger - Released request lock for [f: System.interpreter, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:41,830  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:41,830  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:41,830  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: gainedFocus, rq: 3]
+27 окт. 2022 15:11:41,831  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: gainedFocus, rq: 3] finished
+27 окт. 2022 15:11:41,832  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:41,833  INFO PausableInvocationsLogger - Released request lock for [f: System.interpreter, m: gainedFocus, rq: 3] for request #3
+27 окт. 2022 15:11:41,925  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.interpreter, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:41,925  INFO PausableInvocationsLogger - Acquired request lock for [f: System.interpreter, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:41,926  INFO PausableInvocationsLogger - Run invocation: [f: System.interpreter, m: closedPressed, rq: 4]
+27 окт. 2022 15:11:41,926  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: closedPressed, rq: 4] called pauseForUserInteraction: [ConfirmClientAction[caption: lsFusion, msg: Do you really want close the form without applying the changes ?]]
+27 окт. 2022 15:11:43,360  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: closedPressed, rq: 4] resumed after userInteraction: [0]
+27 окт. 2022 15:11:43,361  INFO PausableInvocationsLogger - Interaction [f: System.interpreter, m: closedPressed, rq: 4] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@daf533
+27 окт. 2022 15:11:43,362  INFO PausableInvocationsLogger - Invocation [f: System.interpreter, m: closedPressed, rq: 4] finished
+27 окт. 2022 15:11:43,363  INFO PausableInvocationsLogger - Releasing request lock for [f: System.interpreter, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:43,363  INFO PausableInvocationsLogger - Released request lock for [f: System.interpreter, m: closedPressed, rq: 4] for request #4
+27 окт. 2022 15:11:43,376  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 15:11:43,376  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 15:11:43,376  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 5]
+27 окт. 2022 15:11:43,377  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 5] finished
+27 окт. 2022 15:11:43,377  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 15:11:43,377  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 5] for request #5
+27 окт. 2022 15:11:44,173  INFO PausableInvocationsLogger - Acquiring request lock for [f: Service.settings, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:44,173  INFO PausableInvocationsLogger - Acquired request lock for [f: Service.settings, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:44,173  INFO PausableInvocationsLogger - Run invocation: [f: Service.settings, m: gainedFocus, rq: 1]
+27 окт. 2022 15:11:44,173  INFO PausableInvocationsLogger - Invocation [f: Service.settings, m: gainedFocus, rq: 1] finished
+27 окт. 2022 15:11:44,173  INFO PausableInvocationsLogger - Releasing request lock for [f: Service.settings, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:44,173  INFO PausableInvocationsLogger - Released request lock for [f: Service.settings, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:44,271  INFO PausableInvocationsLogger - Acquiring request lock for [f: Service.settings, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:44,272  INFO PausableInvocationsLogger - Acquired request lock for [f: Service.settings, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:44,272  INFO PausableInvocationsLogger - Run invocation: [f: Service.settings, m: closedPressed, rq: 2]
+27 окт. 2022 15:11:44,273  INFO PausableInvocationsLogger - Interaction [f: Service.settings, m: closedPressed, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@1799e39
+27 окт. 2022 15:11:44,273  INFO PausableInvocationsLogger - Invocation [f: Service.settings, m: closedPressed, rq: 2] finished
+27 окт. 2022 15:11:44,273  INFO PausableInvocationsLogger - Releasing request lock for [f: Service.settings, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:44,273  INFO PausableInvocationsLogger - Released request lock for [f: Service.settings, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:44,289  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 6] for request #6
+27 окт. 2022 15:11:44,290  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 6] for request #6
+27 окт. 2022 15:11:44,290  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 6]
+27 окт. 2022 15:11:44,291  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 6] finished
+27 окт. 2022 15:11:44,291  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 6] for request #6
+27 окт. 2022 15:11:44,291  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 6] for request #6
+27 окт. 2022 15:11:45,262  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: gainedFocus, rq: 7] for request #7
+27 окт. 2022 15:11:45,262  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: gainedFocus, rq: 7] for request #7
+27 окт. 2022 15:11:45,262  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: gainedFocus, rq: 7]
+27 окт. 2022 15:11:45,262  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: gainedFocus, rq: 7] finished
+27 окт. 2022 15:11:45,262  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: gainedFocus, rq: 7] for request #7
+27 окт. 2022 15:11:45,262  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: gainedFocus, rq: 7] for request #7
+27 окт. 2022 15:11:45,333  INFO PausableInvocationsLogger - Acquiring request lock for [f: System.integrationData, m: closedPressed, rq: 8] for request #8
+27 окт. 2022 15:11:45,333  INFO PausableInvocationsLogger - Acquired request lock for [f: System.integrationData, m: closedPressed, rq: 8] for request #8
+27 окт. 2022 15:11:45,333  INFO PausableInvocationsLogger - Run invocation: [f: System.integrationData, m: closedPressed, rq: 8]
+27 окт. 2022 15:11:45,334  INFO PausableInvocationsLogger - Interaction [f: System.integrationData, m: closedPressed, rq: 8] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@275b74
+27 окт. 2022 15:11:45,334  INFO PausableInvocationsLogger - Invocation [f: System.integrationData, m: closedPressed, rq: 8] finished
+27 окт. 2022 15:11:45,334  INFO PausableInvocationsLogger - Releasing request lock for [f: System.integrationData, m: closedPressed, rq: 8] for request #8
+27 окт. 2022 15:11:45,334  INFO PausableInvocationsLogger - Released request lock for [f: System.integrationData, m: closedPressed, rq: 8] for request #8
+27 окт. 2022 15:11:52,918  INFO PausableInvocationsLogger - Acquiring request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 окт. 2022 15:11:52,918  INFO PausableInvocationsLogger - Acquired request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 окт. 2022 15:11:52,918  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 8]
+27 окт. 2022 15:11:52,954  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 8] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+27 окт. 2022 15:11:52,954  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 8] finished
+27 окт. 2022 15:11:52,954  INFO PausableInvocationsLogger - Releasing request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 окт. 2022 15:11:52,954  INFO PausableInvocationsLogger - Released request lock for [f: navigator, m: executeNavigatorAction, rq: 8] for request #8
+27 окт. 2022 15:11:52,994  INFO PausableInvocationsLogger - Acquiring request lock for [f: I18n.languages, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:52,994  INFO PausableInvocationsLogger - Acquired request lock for [f: I18n.languages, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:52,995  INFO PausableInvocationsLogger - Run invocation: [f: I18n.languages, m: gainedFocus, rq: 0]
+27 окт. 2022 15:11:52,996  INFO PausableInvocationsLogger - Invocation [f: I18n.languages, m: gainedFocus, rq: 0] finished
+27 окт. 2022 15:11:52,996  INFO PausableInvocationsLogger - Releasing request lock for [f: I18n.languages, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:52,996  INFO PausableInvocationsLogger - Released request lock for [f: I18n.languages, m: gainedFocus, rq: 0] for request #0
+27 окт. 2022 15:11:54,671  INFO PausableInvocationsLogger - Acquiring request lock for [f: I18n.languages, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:54,671  INFO PausableInvocationsLogger - Acquired request lock for [f: I18n.languages, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:54,671  INFO PausableInvocationsLogger - Run invocation: [f: I18n.languages, m: gainedFocus, rq: 1]
+27 окт. 2022 15:11:54,672  INFO PausableInvocationsLogger - Invocation [f: I18n.languages, m: gainedFocus, rq: 1] finished
+27 окт. 2022 15:11:54,672  INFO PausableInvocationsLogger - Releasing request lock for [f: I18n.languages, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:54,672  INFO PausableInvocationsLogger - Released request lock for [f: I18n.languages, m: gainedFocus, rq: 1] for request #1
+27 окт. 2022 15:11:54,767  INFO PausableInvocationsLogger - Acquiring request lock for [f: I18n.languages, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:54,767  INFO PausableInvocationsLogger - Acquired request lock for [f: I18n.languages, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:54,767  INFO PausableInvocationsLogger - Run invocation: [f: I18n.languages, m: closedPressed, rq: 2]
+27 окт. 2022 15:11:54,768  INFO PausableInvocationsLogger - Interaction [f: I18n.languages, m: closedPressed, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@1b33631
+27 окт. 2022 15:11:54,768  INFO PausableInvocationsLogger - Invocation [f: I18n.languages, m: closedPressed, rq: 2] finished
+27 окт. 2022 15:11:54,769  INFO PausableInvocationsLogger - Releasing request lock for [f: I18n.languages, m: closedPressed, rq: 2] for request #2
+27 окт. 2022 15:11:54,769  INFO PausableInvocationsLogger - Released request lock for [f: I18n.languages, m: closedPressed, rq: 2] for request #2
