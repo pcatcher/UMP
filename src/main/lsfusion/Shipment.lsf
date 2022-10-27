@@ -1,0 +1,70 @@
+MODULE Shipment;
+
+// устанавливаем зависимости с другими модулями
+REQUIRE Stock, Item, LegalEntity;
+
+// создаем классы
+CLASS Shipment 'Расходная накладная';
+CLASS ShipmentDetail 'Строка расходной накладной';
+
+// создаем свойство, обязательно для заполнения, при удалении Shipment - удалится и эта запись
+shipment 'Документ строки' = DATA Shipment (ShipmentDetail) NONULL DELETE;
+
+// непонятно что за d ?
+index 'Номер строки' (ShipmentDetail d) =
+        PARTITION SUM 1 IF d IS ShipmentDetail
+        ORDER d BY shipment(d);
+
+// свойство, класса Shipment с точным соответствием символов = 10
+number 'Номер накладной' = DATA BPSTRING[10] (Shipment);
+// свойство, класса Shipment тип Дата
+date 'Дата накладной' = DATA DATE (Shipment);
+
+// свойство класса Shipment, ссылаюшееся на LegalEntity
+customer 'Покупатель' = DATA LegalEntity (Shipment);
+// непонятная конструкция
+nameCustomer 'Наименование покупателя' (Shipment s) = name(customer(s));
+
+// свойство класса Shipment, ссылающееся на класс Stock
+stock 'Склад' = DATA Stock(Shipment);
+// 
+nameStock 'Наименование склада' (Shipment s) = name(stock(s));
+
+// свойство класса ShipmentDetail, ссылающееся на класс Item
+item 'Товар' = DATA Item (ShipmentDetail);
+// 
+nameItem 'Наименование товара' (ShipmentDetail d) = name(item(d));
+
+// свойство класса ShipmentDetail, Фомат данных до 16 симвлов и до 4 после запятой
+quantity 'Количество' = DATA NUMERIC[16,4](ShipmentDetail);
+// свойство класса ShipmentDetail, Фомат данных до 17 симвлов и до 2 после запятой
+price 'Цена продажи' = DATA NUMERIC[17,2](ShipmentDetail);
+// 
+sum 'Сумма продажи' (ShipmentDetail d) = quantity(d) * price(d);
+
+// 
+price(ShipmentDetail d) <- salePrice(item(d)) WHEN CHANGED(item(d));
+
+
+FORM shipment 'Расходная накладная'
+    OBJECTS s = Shipment PANEL
+    PROPERTIES(s) number, date, nameCustomer, nameStock
+
+    OBJECTS d = ShipmentDetail
+    PROPERTIES(d) nameItem, quantity, price, sum READONLY, NEW, DELETE GRID
+    FILTERS shipment(d) = s
+
+    EDIT Shipment OBJECT s
+;
+
+
+
+FORM shipments 'Расходные накладные'
+    OBJECTS s = Shipment
+    PROPERTIES(s) READONLY number, date, nameCustomer, nameStock
+    PROPERTIES(s) NEWSESSION NEW, EDIT, DELETE
+
+    OBJECTS d = ShipmentDetail
+    PROPERTIES(d) READONLY nameItem, quantity, price, sum
+    FILTERS shipment(d) = s
+;

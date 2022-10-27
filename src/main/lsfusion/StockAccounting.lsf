@@ -1,0 +1,19 @@
+MODULE StockAccounting;
+
+// зависимости
+REQUIRE Stock, Item, LegalEntity, Receipt, Shipment, StockItem;
+
+
+//  
+NAVIGATOR {
+    NEW FOLDER masterData 'Справочники' FIRST WINDOW toolbar {
+        NEW items;
+        NEW stocks;
+        NEW legalEntities;
+    }
+    NEW FOLDER documents 'Документы' AFTER masterData WINDOW toolbar {
+        NEW receipts;
+        NEW shipments;
+    }
+    NEW currentBalanceItemStock AFTER documents;
+}
